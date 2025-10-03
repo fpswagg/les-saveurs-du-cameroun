@@ -1,0 +1,163 @@
+{
+  "restaurant": {
+    "name": "Les Saveurs du Cameroun",
+    "tagline": "Voyage culinaire au cœur de l'Afrique",
+    "description": "Découvrez l'authenticité de la cuisine camerounaise dans un cadre chaleureux et convivial. Chaque plat raconte une histoire, chaque saveur évoque une tradition.",
+    "hours": {
+      "lundi": "Fermé",
+      "mardi": "12h00 - 15h00, 18h00 - 23h00",
+      "mercredi": "12h00 - 15h00, 18h00 - 23h00",
+      "jeudi": "12h00 - 15h00, 18h00 - 23h00",
+      "vendredi": "12h00 - 15h00, 18h00 - 00h00",
+      "samedi": "12h00 - 00h00",
+      "dimanche": "12h00 - 22h00"
+    },
+    "contact": {
+      "phone": "+33 1 23 45 67 89",
+      "email": "contact@saveurscameroun.fr",
+      "address": "42 Rue de la Gastronomie, 75001 Paris"
+    },
+    "social": {
+      "facebook": "https://facebook.com/saveurscameroun",
+      "instagram": "https://instagram.com/saveurscameroun",
+      "tiktok": "https://tiktok.com/@saveurscameroun"
+    }
+  },
+  "menu": [
+    {
+      "id": 1,
+      "name": "Ndolé",
+      "category": "Plats Principaux",
+      "description": "Feuilles de ndolé mijotées avec des arachides, crevettes et bœuf. Le plat national du Cameroun.",
+      "price": "18.50",
+      "image": "/placeholder.svg?height=400&width=600",
+      "spicy": true,
+      "vegetarian": false
+    },
+    {
+      "id": 2,
+      "name": "Poulet DG",
+      "category": "Plats Principaux",
+      "description": "Poulet braisé aux légumes sautés et plantains mûrs. Un classique festif.",
+      "price": "22.00",
+      "image": "/placeholder.svg?height=400&width=600",
+      "spicy": false,
+      "vegetarian": false
+    },
+    {
+      "id": 3,
+      "name": "Eru",
+      "category": "Plats Principaux",
+      "description": "Légumes eru avec viande fumée et crevettes séchées. Spécialité du Sud-Ouest.",
+      "price": "19.50",
+      "image": "/placeholder.svg?height=400&width=600",
+      "spicy": false,
+      "vegetarian": false
+    },
+    {
+      "id": 4,
+      "name": "Koki de Haricots",
+      "category": "Entrées",
+      "description": "Gâteau de haricots cuit à la vapeur dans des feuilles de bananier.",
+      "price": "8.50",
+      "image": "/placeholder.svg?height=400&width=600",
+      "spicy": false,
+      "vegetarian": true
+    },
+    {
+      "id": 5,
+      "name": "Soya",
+      "category": "Entrées",
+      "description": "Brochettes de bœuf marinées aux épices camerounaises, grillées au feu de bois.",
+      "price": "12.00",
+      "image": "/placeholder.svg?height=400&width=600",
+      "spicy": true,
+      "vegetarian": false
+    },
+    {
+      "id": 6,
+      "name": "Accras de Poisson",
+      "category": "Entrées",
+      "description": "Beignets croustillants de poisson épicé, servis avec sauce pimentée.",
+      "price": "9.50",
+      "image": "/placeholder.svg?height=400&width=600",
+      "spicy": true,
+      "vegetarian": false
+    },
+    {
+      "id": 7,
+      "name": "Puff Puff",
+      "category": "Desserts",
+      "description": "Beignets sucrés moelleux, parfumés à la vanille et la muscade.",
+      "price": "6.50",
+      "image": "/placeholder.svg?height=400&width=600",
+      "spicy": false,
+      "vegetarian": true
+    },
+    {
+      "id": 8,
+      "name": "Chin Chin",
+      "category": "Desserts",
+      "description": "Biscuits croustillants légèrement sucrés, parfaits avec le thé.",
+      "price": "5.50",
+      "image": "/placeholder.svg?height=400&width=600",
+      "spicy": false,
+      "vegetarian": true
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Soirée Makossa",
+      "date": "Chaque vendredi",
+      "description": "Dînez au rythme de la musique traditionnelle camerounaise avec DJ live.",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 2,
+      "title": "Brunch Dominical",
+      "date": "Tous les dimanches",
+      "description": "Buffet à volonté de spécialités camerounaises de 12h à 16h.",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 3,
+      "title": "Atelier Cuisine",
+      "date": "Premier samedi du mois",
+      "description": "Apprenez à préparer les plats emblématiques avec notre chef.",
+      "image": "/placeholder.svg?height=400&width=600"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "image": "/placeholder.svg?height=600&width=800",
+      "alt": "Intérieur chaleureux du restaurant"
+    },
+    {
+      "id": 2,
+      "image": "/placeholder.svg?height=600&width=800",
+      "alt": "Plats traditionnels camerounais"
+    },
+    {
+      "id": 3,
+      "image": "/placeholder.svg?height=600&width=800",
+      "alt": "Notre chef en action"
+    },
+    {
+      "id": 4,
+      "image": "/placeholder.svg?height=600&width=800",
+      "alt": "Épices et ingrédients authentiques"
+    },
+    {
+      "id": 5,
+      "image": "/placeholder.svg?height=600&width=800",
+      "alt": "Ambiance conviviale"
+    },
+    {
+      "id": 6,
+      "image": "/placeholder.svg?height=600&width=800",
+      "alt": "Décoration traditionnelle"
+    }
+  ]
+}

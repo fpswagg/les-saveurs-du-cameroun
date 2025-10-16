@@ -28,8 +28,7 @@ export const metadata: Metadata = {
     title: "Les Saveurs du Cameroun",
     description: "Restaurant camerounais authentique",
     type: "website",
-  },
-    generator: 'v0.app'
+  }
 }
 
 export default function RootLayout({

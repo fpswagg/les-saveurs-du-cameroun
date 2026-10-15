@@ -79,7 +79,7 @@ export function MenuSection() {
                 <div className="p-6">
                   <div className="flex justify-between items-start mb-3">
                     <h3 className="font-serif text-xl font-bold text-foreground">{item.name}</h3>
-                    <span className="font-serif text-lg font-bold text-primary">{item.price}€</span>
+                    <span className="font-serif text-lg font-bold text-primary">{item.price} FCFA</span>
                   </div>
                   <p className="text-muted-foreground text-pretty leading-relaxed">{item.description}</p>
                 </div>
